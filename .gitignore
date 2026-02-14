@@ -1,0 +1,56 @@
+# --- Entornos virtuales ---
+venv/
+.env/
+.venv/
+
+# --- Archivos de Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Datos (muy importante) ---
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.joblib
+
+# --- Modelos entrenados ---
+models/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.sav
+
+# --- Logs y salidas ---
+*.log
+logs/
+output/
+results/
+
+# --- Archivos grandes o temporales ---
+*.tmp
+*.temp
+
+# --- Configuraciones locales ---
+*.env
+.env.*
+.DS_Store
+desktop.ini
+
+# --- VS Code ---
+.vscode/
