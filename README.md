@@ -1,4 +1,4 @@
-# Entorno_VS_Jupiterlab
+# Entorno_VS_Jupyterlab
 
 Hola, estoy familiarizandome con Visual Studio Code y JupyterLab
 
